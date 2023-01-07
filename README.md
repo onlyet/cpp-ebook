@@ -86,7 +86,7 @@
 
 ## 说明
 这里的pdf都是我长期收藏的，电子书收集分类不易。  
-想要的点个**star**，扫码或搜索QQ群**309798848**备注`你的github用户名+获取pdf`，所有pdf在群文件里。  
+想要的点个**star**，扫码或搜索QQ群**309798848**备注`github+你的github用户名+获取pdf`，所有pdf在群文件里。  
 <br>
 <img decoding="async" src="./QQ%E6%88%AA%E5%9B%BE20230107213649.png" width=20%>
 
